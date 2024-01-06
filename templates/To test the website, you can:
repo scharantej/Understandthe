@@ -1,0 +1,8 @@
+
+1. Run the Flask application using the command `flask run`.
+2. Open a web browser and navigate to `http://localhost:5000`.
+3. Click on the "Movies" link to see a list of all the movies in the database.
+4. Click on a movie title to see the details of that movie.
+5. Click on the "Contact" link to see the contact information.
+
+If everything works correctly, you should see the web pages as designed and be able to navigate between them.
