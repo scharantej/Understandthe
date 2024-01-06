@@ -1,0 +1,8 @@
+conn = sqlite3.connect('telugu_movies.db')
+c = conn.cursor()
+c.execute("SELECT * FROM movies WHERE id=?", (movie_id,))
+movie = c.fetchone()
+conn.close()
+return render_template('movie_details.html', movie=movie)
+
+@app.route('/contact')
