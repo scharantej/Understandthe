@@ -1,0 +1,42 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Build a Website</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<h1>Build a Website</h1>
+
+<section>
+<h2>Problem Statement</h2>
+<p>The goal of this project is to build a website that compares Spanish and English. The website should allow users to input text in either language and see a translation in the other language. The website should also include a dictionary of common words and phrases in both languages.</p>
+</section>
+
+<section>
+<h2>Design</h2>
+<ul>
+<li>The website will be built using HTML, CSS, and JavaScript.</li>
+<li>The website will be hosted on GitHub Pages.</li>
+<li>The website will be responsive and mobile-friendly.</li>
+</ul>
+</section>
+
+<section>
+<h2>User Experience Considerations</h2>
+<ul>
+<li>The website will be easy to use and navigate.</li>
+<li>The website will be visually appealing and engaging.</li>
+<li>The website will be accessible to users of all abilities.</li>
+</ul>
+</section>
+
+</body>
+
+</html>
+
