@@ -1,0 +1,5 @@
+return render_template('contact.html')
+
+
+**Database:**
+
