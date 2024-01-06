@@ -1,0 +1,17 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>{{ movie.title }}</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>{{ movie.title }}</h1>
+<p>Release Date: {{ movie.release_date }}</p>
+<p>Cast: {{ movie.cast }}</p>
+<p>Plot Summary: {{ movie.plot_summary }}</p>
+</body>
+</html>
+
+
