@@ -1,0 +1,13 @@
+
+* `id` (primary key)
+* `title`
+* `release_year`
+* `director`
+* `主演`
+* `plot`
+* `cast`
+* `crew`
+* `reviews`
+
+**Testing:**
+
