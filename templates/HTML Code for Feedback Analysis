@@ -1,0 +1,38 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Feedback Analysis</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<h1>Feedback Analysis</h1>
+
+<section id="previous-feedback">
+<h2>Previous Feedback</h2>
+<ul>
+<li>Lack of clarity in problem statement</li>
+<li>Insufficient technical details</li>
+<li>Incomplete design</li>
+</ul>
+</section>
+
+<section id="improvements">
+<h2>Improvements for This Run</h2>
+<ul>
+<li>Clear problem definition</li>
+<li>Detailed technical design</li>
+<li>Complete design</li>
+</ul>
+</section>
+
+</body>
+
+</html>
+
+
